@@ -14,6 +14,6 @@ This project was started with the main goal of assisting in solving management-r
 
 # About us
 
-_This project developed out of the Hons Informatics work of Megan Stock, Nina and Rhone Roux, and Ariana Subroyen at Stellenbosch University, in collaboration with [RSE@SUN](https://rse.sun.ac.za/), and is continuing under the [Open Life Science (OLS)](https://openlifesci.org/ols-6) training and mentoring programme._
+_This project developed out of the Hons Informatics work of Megan Stock, Nina and Rhone Roux, and Ariana Subroyen at [Stellenbosch University](https://suinformatics.com/), under the supervision of [Prof Arina Britz](https://www.cair.org.za/user/16), in collaboration with [RSE@SUN](https://rse.sun.ac.za/), and is continuing under the [Open Life Science (OLS)](https://openlifesci.org/ols-6) training and mentoring programme._
 
 **Please submit questions and suggestions to the Team through the following [webform](https://forms.office.com/r/qvKb6bfwaW).**
